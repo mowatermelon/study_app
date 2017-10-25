@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body, pre,p,span,label,button,ul,li, input, select, textarea {
+  font-family: -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
